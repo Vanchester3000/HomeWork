@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ДЗ_1
+namespace HomeWork
 {
     class Program
     {
