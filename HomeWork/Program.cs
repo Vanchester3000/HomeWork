@@ -9,6 +9,7 @@ namespace HomeWork
             Console.ForegroundColor = ConsoleColor.Green;
 
             
+            
             //Console.ReadLine();
         }
     }
