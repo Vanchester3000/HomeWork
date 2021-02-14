@@ -6,7 +6,11 @@ namespace HomeWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.Green;
+
+            
+            
+            //Console.ReadLine();
         }
     }
 }
